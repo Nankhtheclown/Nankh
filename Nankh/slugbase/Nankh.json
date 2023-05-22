@@ -1,0 +1,33 @@
+{
+	"id": "Nankh",
+	"name": "Nankh",
+	"description": "An extremely agile omnivore, although this sometimes works against him, he does not like to be alone and prefers to be accompanied by others of his kind",
+	"features": {
+		"color": "DBB39D",
+		"Nankh/super_jump": 0.1,
+		"Nankh/explode_on_death": false,
+                "the_glow": true,
+		"back_spear": true,
+                "walk_speed": 1.2,
+                "tunnel_speed": 1.2,
+                "climb_speed": 1.2,
+                "can_maul": true,
+                "maul_damage": 1,
+		"start_room": "SH_S09",
+                "food_min": 4,
+                "food_max":9,
+                "diet": {
+                    "base": "White",
+                    "corpses": 1.5,
+                    "plants": 1,
+                    "overrides": {
+                        "Scavenger": 1.5,
+                        "DangleFruit": 2
+                   }
+               },
+
+		"select_menu_scene": "Slugcat_Nankh",
+		"select_menu_scene_ascended": "Ghost_Nankh",
+		"Nankh/mean_lizards": 0.8
+	}
+}
