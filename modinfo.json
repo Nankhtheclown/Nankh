@@ -1,7 +1,7 @@
 ﻿{
 	"id": "Nankh.Nankh",
 	"name": "Nankh",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"authors": "Nankh<LINE>Bensone",
 	"description": "The Lighting Slugcat",
 	"requirements": [ "slime-cubed.slugbase","dressmyslugcat" ],
